@@ -2,7 +2,7 @@
 
 # 🤖 ML in Food Economics & Agribusiness
 
-### Applied Machine Learning — Exam Project
+### Applied Machine Learning for Migration Analysis and Gold Price Forecasting
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
